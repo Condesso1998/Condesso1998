@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Condesso1998
-- 👀 I’m interested in Pew
-- 🌱 I’m currently learning Pew
-- 💞️ I’m looking to collaborate on Pew
-- 📫 How to reach me Pew
+- 👋 Hi, I’m Rui Condesso
+- 👀 I’m interested in Outsystems, Sap , CiberSegurança
+- 🌱 I’m currently learning IPG ( Instituto Politécnico da Guarda)
+
 
 <!---
 Condesso1998/Condesso1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
